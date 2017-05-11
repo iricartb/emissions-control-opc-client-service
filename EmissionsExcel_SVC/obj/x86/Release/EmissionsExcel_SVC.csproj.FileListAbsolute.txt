@@ -1,0 +1,40 @@
+C:\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.csproj.ResolveComReference.cache
+C:\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.exe
+C:\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.pdb
+C:\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\ResolveAssemblyReference.cache
+C:\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.ProjectInstaller.resources
+C:\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\GenerateResource.read.1.tlog
+C:\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.csproj.ResolveComReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.ProjectInstaller.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.pdb
+C:\Documents and Settings\flsaserver\Mis documentos\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\bin\Release\EmissionsExcel_SVC.exe.manifest
+C:\Documents and Settings\flsaserver\Mis documentos\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\bin\Release\EmissionsExcel_SVC.application
+C:\Documents and Settings\flsaserver\Mis documentos\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\bin\Release\EmissionsExcel_SVC.exe
+C:\Documents and Settings\flsaserver\Mis documentos\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\bin\Release\EmissionsExcel_SVC.pdb
+C:\Documents and Settings\flsaserver\Mis documentos\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\flsaserver\Mis documentos\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\Interop.OPCAutomation.dll
+C:\Documents and Settings\flsaserver\Mis documentos\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.csproj.ResolveComReference.cache
+C:\Documents and Settings\flsaserver\Mis documentos\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.ProjectInstaller.resources
+C:\Documents and Settings\flsaserver\Mis documentos\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\flsaserver\Mis documentos\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\flsaserver\Mis documentos\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.TrustInfo.xml
+C:\Documents and Settings\flsaserver\Mis documentos\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.exe.manifest
+C:\Documents and Settings\flsaserver\Mis documentos\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.application
+C:\Documents and Settings\flsaserver\Mis documentos\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.exe
+C:\Documents and Settings\flsaserver\Mis documentos\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\Interop.OPCAutomation.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\bin\Release\EmissionsExcel_SVC.exe.manifest
+C:\Users\user\Documents\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\bin\Release\EmissionsExcel_SVC.application
+C:\Users\user\Documents\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\bin\Release\EmissionsExcel_SVC.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\bin\Release\EmissionsExcel_SVC.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.TrustInfo.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.exe.manifest
+C:\Users\user\Documents\Visual Studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.application
+C:\Users\user\Downloads\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.csproj.ResolveComReference.cache
+C:\Users\user\Downloads\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.exe
+C:\Users\user\Downloads\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Release\EmissionsExcel_SVC.pdb

@@ -1,0 +1,15 @@
+c:\documents and settings\flsaserver\mis documentos\visual studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\bin\Debug\EmissionsExcel_SVC.exe.manifest
+c:\documents and settings\flsaserver\mis documentos\visual studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\bin\Debug\EmissionsExcel_SVC.application
+c:\documents and settings\flsaserver\mis documentos\visual studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\bin\Debug\EmissionsExcel_SVC.exe
+c:\documents and settings\flsaserver\mis documentos\visual studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\bin\Debug\EmissionsExcel_SVC.pdb
+c:\documents and settings\flsaserver\mis documentos\visual studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\flsaserver\mis documentos\visual studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Debug\Interop.OPCAutomation.dll
+c:\documents and settings\flsaserver\mis documentos\visual studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Debug\EmissionsExcel_SVC.csproj.ResolveComReference.cache
+c:\documents and settings\flsaserver\mis documentos\visual studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Debug\EmissionsExcel_SVC.exe.manifest
+c:\documents and settings\flsaserver\mis documentos\visual studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Debug\EmissionsExcel_SVC.application
+c:\documents and settings\flsaserver\mis documentos\visual studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Debug\EmissionsExcel_SVC.exe
+c:\documents and settings\flsaserver\mis documentos\visual studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Debug\EmissionsExcel_SVC.pdb
+c:\documents and settings\flsaserver\mis documentos\visual studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Debug\EmissionsExcel_SVC.ProjectInstaller.resources
+c:\documents and settings\flsaserver\mis documentos\visual studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\flsaserver\mis documentos\visual studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\flsaserver\mis documentos\visual studio 2010\Projects\EmissionsExcel_SVC\EmissionsExcel_SVC\obj\x86\Debug\EmissionsExcel_SVC.TrustInfo.xml
